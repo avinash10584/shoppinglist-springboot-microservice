@@ -1,0 +1,6 @@
+spring:     
+  data: 
+      mongodb: 
+          uri: mongodb+srv://testuser:testpassword@shopping-list-cluster-vac4w.mongodb.net/test?retryWrites=true&w=majority
+server: 
+  port: 3025
